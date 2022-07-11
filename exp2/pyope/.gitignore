@@ -1,0 +1,15 @@
+.idea
+*.egg-info
+*.egg
+build
+*.pyc
+*.pyo
+.*.swp
+.cache
+.coverage
+dist/
+htmlcov/
+.tox
+.pytest_cache
+venv
+.venv
